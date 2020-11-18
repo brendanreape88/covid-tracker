@@ -1,6 +1,6 @@
 # Covid-19 Tracker
 
-**Live:**
+**Live:** https://covid-tracker-hiq31uesf.vercel.app/
 
 ## Description:
 
